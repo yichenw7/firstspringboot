@@ -1,0 +1,10 @@
+server:
+  port: 8004
+student:
+  name: 我没有三颗心脏
+  age: 27
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
